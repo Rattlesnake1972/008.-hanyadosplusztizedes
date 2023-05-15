@@ -37,4 +37,4 @@ Az első számot a másodikkal osztjuk az "osztas" változóban, majd a "Console
 
 Végül a program várakozik, amíg a felhasználó bármilyen billentyűt meg nem nyom a "Console.ReadKey()" metódus segítségével.
 
-Összességében ez a program egy egyszerű példa arra, hogy hogyan lehet lebegőpontos számokkal dolgozni C# nyelven, és hogyan lehet a felhasználóval a konzolon keresztül kommunikálni.*/
+Összességében ez a program egy egyszerű példa arra, hogy hogyan lehet lebegőpontos számokkal dolgozni C# nyelven, és hogyan lehet a felhasználóval a konzolon keresztül kommunikálni.*/ 
